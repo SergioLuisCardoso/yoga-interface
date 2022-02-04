@@ -94,11 +94,11 @@ p {
     color: #000000;
 }
 
+.logos-btn {
+    margin: 0 16.5px;
+}
+
 .container {
     text-align: center;
     margin: 20px auto 82px auto;
-}
-
-.logos-btn {
-    margin: 0 16.5px;
 }

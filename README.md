@@ -1,6 +1,12 @@
 # Yoga Interface
  <img src="./Assets/folder.png" alt="página inicial">
 
+> Replicação da tela <i>login</i> de um aplicativo para celular, através do Sigma.
+
+## 💻 Tecnologias utilizadas
+
+* HTML
+* CSS
 
 
  ## 📝 Licença
